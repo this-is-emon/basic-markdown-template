@@ -1,5 +1,5 @@
 <!--MarkDown Comment-->
-Mofijul Islam  
+Mofijul Islam <!--To initiate a new line, just press 2 spaces after a line-->  
 This is Second Line
 ### Horaizontal Line:
 ---
