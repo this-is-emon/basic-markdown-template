@@ -1,1 +1,3 @@
 This is a text file to learn branching --> making pull request --> merging into main branch in GitHub.
+
+**This line is to do some changes in feature1 baranch in the local and then pust it to remote origin.
