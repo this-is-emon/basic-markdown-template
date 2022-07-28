@@ -1,0 +1,2 @@
+Branching and Merging in the local repository.
+making a new branch and switch into it --> Make changes --> staging and commiting --> pull --> push.
