@@ -1,4 +1,4 @@
 Branching and Merging in the local repository.
 making a new branch and switch into it --> Make changes --> staging and commiting --> pull --> push.
 
-**A line to change feature2 branch.
+**A change in the feature2 branch.And will merge it to the main.
